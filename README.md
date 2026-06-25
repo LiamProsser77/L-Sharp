@@ -51,6 +51,11 @@ In every script of Rook you have to have yes.put. in it
 yes.put. Hello World
 <end>
 <script#>
+```
+### Create a file in Rook
+To create a file in Rook you have to have your name at the start like "helloworld" and then add .rk at the end for example:
+```
+helloworld.rk
 
 
 
