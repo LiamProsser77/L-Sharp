@@ -1,5 +1,5 @@
-Contributing to L#
-Thanks for your interest in contributing to L#!
+## Contributing to Rook
+Thanks for your interest in contributing to Rook!
 
 How to Contribute
 Contributions are welcome in the form of:
@@ -26,4 +26,4 @@ heofonsearch.dev@tutamail.com (Heofon Team Email)
 Notes
 This project is actively developed and evolving.
 Not all contributions may be accepted, but all feedback is appreciated.
-Thank you for helping improve L#!
+Thank you for helping improve Rook!
