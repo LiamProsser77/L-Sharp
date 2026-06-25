@@ -1,12 +1,13 @@
-<img width="430" height="300" alt="l#" src="https://github.com/user-attachments/assets/f380b36c-f30c-4a7b-8c8b-fc94aca9912f" />
+<img width="400" height="300" alt="Rook-lang" src="https://github.com/user-attachments/assets/064f2922-1379-49f1-853c-57fe54f508a2" />
 
 
 
-# Logic Sharp (L#)
 
-L# is the proprietary logic engine for the **Heofon** ecosystem, bridging the gap between structural web design and high-level scripting. It serves as the primary logic provider for all Heofon-based applications.
+# Rook Programming Language
 
-L# is **fully open source and free to use**. We prioritize user privacy: the platform **does not collect user information** and **requires no login** to access or develop with our tools.
+Rook is the proprietary logic engine for the **Heofon** ecosystem, bridging the gap between structural web design and high-level scripting. It serves as the primary logic provider for all Heofon-based applications.
+
+Rook is **fully open source and free to use**. We prioritize user privacy: the platform **does not collect user information** and **requires no login** to access or develop with our tools.
 
 Official Website: https://hpp-lang.zite.so/
 
@@ -14,27 +15,42 @@ Official Website: https://hpp-lang.zite.so/
 ---
 
 ### Getting Started
-To begin developing with L#, you can access the environment directly through our web portal.
+To begin developing with Rook, you can access the environment directly through our web portal.
 
 * **No Login Required:** Simply visit the portal and start coding immediately.
 * **Privacy Focused:** Your data and code remain your own; we do not track or store personal information.
-* **Direct Access:** Visit the official L# portal to use the integrated editor: https://hpp-com.zite.so/
+* **Direct Access:** Visit the official Rook portal to use the integrated editor: https://hpp-com.zite.so/
 
 ---
 ### Variables
-You can find the Variables on out web portal on home button
+```
+<rook script> means you are starting the line with Rook
+<pro> means everything in the script is part of the program
+<start> means you are starting the program
+<end> means you are ending the program
+yes.put. means you are putting something in the program like "Hello World" or a text box
+<script> means you are ending the script and moving on to the next line of code
+name. means you add your name or name a website or game
+age. means you set the age of a person or website
+.up means you make all words uppercase
+.down means you make all words lowercase
+.half means you cut the words in half
 
-### What L# is not
-- L# is not like C#, L# is a new version of HPP (Heofon Programming Platform) that is for web creating and game making.
-- L# is not any other language it is its own language that is like HTML and Python making it a easy language to start for newer programmers in web dev and game making.
+   
+```
+### What Rook is not
+- Rook is not a hard programming language, it is made easy for new coders and website creators
+- Rook does not take info from you like in JavaScript or Typescript, Rook is made private to you so you can make things safe for users for websites in Rook
 
-### Hello World in L#
-In every script of L# you have to have # at the end of each line. This is Hello World in L#:
-```L#
-<l# script>
-<pro#>
-start#
-yes.put."Hello World"#
-end#
+### Hello World in Rook
+In every script of Rook you have to have yes.put. in it
+```Rook
+<rook script>
+<pro>
+<start>
+yes.put. Hello World
+<end>
 <script#>
+
+
 
